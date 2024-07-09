@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="denji">Denji</string>
+    <string name="denji_year">2023</string>
+    <string name="zero_two">Zero Two</string>
+    <string name="zero_two_year">2021</string>
+    <string name="sanji">Sanji</string>
+    <string name="sanji_year">2022</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_year">2020</string>
+    <string name="jose">jose</string>
+    <string name="ignacio">ignacio</string>
+    <string name="jara">jara</string>
+    <string name="nu_ez">nuñez</string>
+    <string name="argentina">argentina</string>
+    <string name="antartida">antartida</string>
+    <string name="grecia">grecia</string>
+    <string name="lima">lima</string>
+</resources>
